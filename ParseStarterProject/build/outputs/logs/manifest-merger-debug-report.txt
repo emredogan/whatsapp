@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 	package
 		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
@@ -47,11 +47,11 @@ ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/s
 	android:name
 		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:18:5-36:19
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:17:5-34:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/emredogan/.android/build-cache/c99cf5ecfd3d0d64b6022be3880bc55eb6f8828e/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/emredogan/.android/build-cache/8509e8e377e024f7fb5b6ab31bee656995871031/output/AndroidManifest.xml:27:5-20
@@ -97,32 +97,41 @@ MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/emredogan/.
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/emredogan/.android/build-cache/5b02e4d3edc6831a99984f3dd339d84c3059b334/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.4.0] /Users/emredogan/.android/build-cache/c1aa3ff8e66422b7f3b973065233703926ef9c0e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/emredogan/.android/build-cache/c40cb3670592a70aa26b9c250c26f516c5c9c525/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
 	android:allowBackup
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
 	android:icon
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
 	android:theme
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
 activity#com.parse.starter.MainActivity
-ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:25:9-33:20
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:27:13-45
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:26:13-41
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:32:19-51
+activity#com.parse.starter.ChatActivity
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:33:9-59
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:33:19-47
 uses-sdk
 INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/emredogan/.android/build-cache/c99cf5ecfd3d0d64b6022be3880bc55eb6f8828e/output/AndroidManifest.xml:4:5-42
@@ -180,6 +189,7 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/emredogan/
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.4.0] /Users/emredogan/.android/build-cache/c1aa3ff8e66422b7f3b973065233703926ef9c0e/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.0] /Users/emredogan/.android/build-cache/e4f2fe86bb08371510cbd0da6e48198cefece772/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/emredogan/.android/build-cache/c40cb3670592a70aa26b9c250c26f516c5c9c525/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/emredogan/.android/build-cache/d5b5d94bff5fb78f76b31030e6cc50325146a461/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

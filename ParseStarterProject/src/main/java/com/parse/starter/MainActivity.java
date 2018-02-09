@@ -38,6 +38,16 @@ public class MainActivity extends AppCompatActivity {
 
   Boolean loginModeActive = false;
 
+  public void redirectIfLoggedIn() {
+
+    if (ParseUser.getCurrentUser() != null) {
+      Intent intent = new Intent(getApplicationContext(), UserListActivity.class);
+
+      startActivity(intent);
+    }
+
+  }
+
   public void toggleLoginMode(View view) {
 
     if(loginModeActive) {
@@ -70,6 +80,8 @@ public class MainActivity extends AppCompatActivity {
 
             Log.i("Info", "User Logged in");
 
+            redirectIfLoggedIn();
+
           } else {
 
             String message = e.getMessage();
@@ -98,6 +110,10 @@ public class MainActivity extends AppCompatActivity {
           if (e== null) {
 
             Log.i("Info", "Signed up");
+
+            redirectIfLoggedIn();
+
+
           } else {
             String message = e.getMessage();
 
@@ -122,10 +138,14 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+    setTitle("User List");
+
     usernameEditText = (EditText) findViewById(R.id.usernameEditText);
     passwordEditText = (EditText) findViewById(R.id.passwordEditText);
     loginSignupButton = (Button) findViewById(R.id.loginSignupButton);
     toggleModeTextView = (TextView) findViewById(R.id.toggleLoginModeTextView);
+
+    redirectIfLoggedIn();
 
     
     ParseAnalytics.trackAppOpenedInBackground(getIntent());

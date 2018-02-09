@@ -88,6 +88,10 @@
         "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
     },
     {
+        "merged": "/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/res/layout/activity_chat.xml"
+    },
+    {
         "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -114,6 +118,10 @@
     {
         "merged": "/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
         "source": "/Users/emredogan/.android/build-cache/71a9a37bb13546ed56fc9c7b6aff61fcaea3483b/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_user_list.xml",
+        "source": "/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/res/layout/activity_user_list.xml"
     },
     {
         "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_driver_location.xml",

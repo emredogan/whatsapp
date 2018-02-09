@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.google.android.gms:play-services-cast-9.4.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/076a682185d1893cbcdcd2d0961aed6862328b2a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/076a682185d1893cbcdcd2d0961aed6862328b2a/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

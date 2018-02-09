@@ -3,21 +3,39 @@
 
     <item
         is-multidex="true"
+        jar="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="54d9c393f4e160aa7c66eedd307c61dfe9e3862d">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ffb6b62716e00a1b80b93b73abb88996ad0112d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/.android/build-cache/c40cb3670592a70aa26b9c250c26f516c5c9c525/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_917dd7bd5f02d145df360d97c6ca2d9b59fb280b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/emredogan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5a4e61594c8faa7744c393a5e416f8a81d6095d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.3"
         sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
         <dex dex="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cbdbacd5f7e2484e84592ae9ed224f246b9be0e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.3"
-        sha1="079fbb6e4a2706b609632554a588e99e7974a047">
-        <dex dex="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ffb6b62716e00a1b80b93b73abb88996ad0112d/classes.dex" />
     </item>
 
 </items>

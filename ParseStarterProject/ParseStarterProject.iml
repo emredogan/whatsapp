@@ -116,6 +116,8 @@
     <orderEntry type="library" exported="" name="com.google.android.gms:play-services-fitness-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.google.android.gms:play-services-auth-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.google.android.gms:play-services-9.4.0" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support.constraint:constraint-layout-solver:1.0.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="com.android.support.constraint:constraint-layout-1.0.2" level="project" />
     <orderEntry type="library" exported="" name="com.google.android.gms:play-services-identity-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.google.android.gms:play-services-base-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.google.firebase:firebase-crash-9.4.0" level="project" />

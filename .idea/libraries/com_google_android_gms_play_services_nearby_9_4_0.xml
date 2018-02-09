@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.google.android.gms:play-services-nearby-9.4.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/28372c3dc31bf5ce9855eb924060c5ad3ce78851/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/28372c3dc31bf5ce9855eb924060c5ad3ce78851/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
