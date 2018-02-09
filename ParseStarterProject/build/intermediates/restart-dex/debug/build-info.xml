@@ -6,35 +6,26 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1518171901960"
+    timestamp="1518175475011"
     token="-8691848761706683750"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1670" />
+        duration="652" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="595" />
+        duration="56" />
     <task
         name="verifier"
-        duration="18" />
+        duration="3" />
 
-    <artifact
-        location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -87,7 +78,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1518171901960"
+        timestamp="1518173146180"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
@@ -96,11 +87,16 @@
             location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1518175475011"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>
