@@ -1,0 +1,7 @@
+#Fri Feb 09 10:51:29 CET 2018
+base.0=/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ffb6b62716e00a1b80b93b73abb88996ad0112d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cbdbacd5f7e2484e84592ae9ed224f246b9be0e4/classes.dex
+base.1=/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cbdbacd5f7e2484e84592ae9ed224f246b9be0e4
+file.0=/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ffb6b62716e00a1b80b93b73abb88996ad0112d/classes.dex

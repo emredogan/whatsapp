@@ -1,0 +1,424 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:9:1-38:12
+	package
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/emredogan/.android/build-cache/8509e8e377e024f7fb5b6ab31bee656995871031/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/emredogan/.android/build-cache/f0a9656eb2a8d4c019498e4f05bd5b447929c575/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/emredogan/.android/build-cache/7354da9150356b5e105bfbad9c42fbf2d55e74f9/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/18afb84d78194e290a7a6075661266161e12bb6b/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/27a3e6978b294e3cce9892a694646e6d7bcb7f3d/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/emredogan/.android/build-cache/8509e8e377e024f7fb5b6ab31bee656995871031/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/emredogan/.android/build-cache/28372c3dc31bf5ce9855eb924060c5ad3ce78851/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/18afb84d78194e290a7a6075661266161e12bb6b/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/27a3e6978b294e3cce9892a694646e6d7bcb7f3d/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:18:5-36:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/emredogan/.android/build-cache/c99cf5ecfd3d0d64b6022be3880bc55eb6f8828e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/emredogan/.android/build-cache/8509e8e377e024f7fb5b6ab31bee656995871031/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/emredogan/.android/build-cache/076a682185d1893cbcdcd2d0961aed6862328b2a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/emredogan/.android/build-cache/c948585dfc3c0f2085b04e9a7890385b7ed5b8f3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/emredogan/.android/build-cache/d5b5d94bff5fb78f76b31030e6cc50325146a461/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/emredogan/.android/build-cache/33f7cfcf9385812569a272f4d408b9c9da3d6fd1/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/emredogan/.android/build-cache/f8d0fea61b26e26929a1f4050f5f09b2ba3b8e04/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/emredogan/.android/build-cache/b89e26fa8b37c205de18ac160e066f1f24e87e77/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/emredogan/.android/build-cache/178f65421fbeb182f42013cbf734918db95cf09b/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/emredogan/.android/build-cache/1fe686fbce2c2dee55c498d93026e912d07f76d7/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/emredogan/.android/build-cache/ff206528f955674a032061354c165591c5513b56/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/emredogan/.android/build-cache/a8809a8b820946fba42a71aab3b1a5a5f5f2b0b1/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/emredogan/.android/build-cache/c2e5fedfe4e7008904a522ab294a7c126061e76d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/emredogan/.android/build-cache/fe1b115e84d500cbec5db9591706be4a896dc9e9/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/emredogan/.android/build-cache/39208039119a204c9d3b6e0273a67a26e4043048/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/emredogan/.android/build-cache/49d0fc8e108790993f6efdd85504b3e427c85634/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/emredogan/.android/build-cache/f0a9656eb2a8d4c019498e4f05bd5b447929c575/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/emredogan/.android/build-cache/4d443137f9d30f0ef10d7b56145f0ab7404c1ea1/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/emredogan/.android/build-cache/7354da9150356b5e105bfbad9c42fbf2d55e74f9/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/emredogan/.android/build-cache/66ecc4f27031adf95ba4deb58bd26f4700646057/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/emredogan/.android/build-cache/28372c3dc31bf5ce9855eb924060c5ad3ce78851/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/emredogan/.android/build-cache/04f88ca7c7249eeeb655a555ae693a45aea013d5/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/emredogan/.android/build-cache/71a9a37bb13546ed56fc9c7b6aff61fcaea3483b/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/emredogan/.android/build-cache/162a3146894f8f089313534e875e8f7bb8d4a6bd/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/emredogan/.android/build-cache/9a2f5962d9e402b59c244e820c1d16d39946edb2/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/18afb84d78194e290a7a6075661266161e12bb6b/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/27a3e6978b294e3cce9892a694646e6d7bcb7f3d/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/emredogan/.android/build-cache/e8b4e4fe886966467136e5d0be4fe654436b98ee/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/emredogan/.android/build-cache/19ec761b9de9b1b9ff424f2b89bfb63ba3f76cef/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/emredogan/.android/build-cache/f7e463ad05c2e0ca312ddf726cc7369ef1f0a876/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/emredogan/.android/build-cache/227e7138f3061ea35bcb6d830821361723a1d76f/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/emredogan/.android/build-cache/c325af94e604cc3b904d4a0d83c58a167effc1ea/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/emredogan/.android/build-cache/5b02e4d3edc6831a99984f3dd339d84c3059b334/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/emredogan/.android/build-cache/c1aa3ff8e66422b7f3b973065233703926ef9c0e/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:26:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/emredogan/.android/build-cache/c99cf5ecfd3d0d64b6022be3880bc55eb6f8828e/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/emredogan/.android/build-cache/58530d2807d86183347c7a98be1a1e283ced45f4/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/emredogan/.android/build-cache/8509e8e377e024f7fb5b6ab31bee656995871031/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/emredogan/.android/build-cache/a7c276b484d6960729481cda2fd2aec7be9c28a1/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/emredogan/.android/build-cache/076a682185d1893cbcdcd2d0961aed6862328b2a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/emredogan/.android/build-cache/c948585dfc3c0f2085b04e9a7890385b7ed5b8f3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/emredogan/.android/build-cache/d5b5d94bff5fb78f76b31030e6cc50325146a461/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/emredogan/.android/build-cache/33f7cfcf9385812569a272f4d408b9c9da3d6fd1/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/emredogan/.android/build-cache/f8d0fea61b26e26929a1f4050f5f09b2ba3b8e04/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/emredogan/.android/build-cache/b89e26fa8b37c205de18ac160e066f1f24e87e77/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/emredogan/.android/build-cache/178f65421fbeb182f42013cbf734918db95cf09b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/emredogan/.android/build-cache/1fe686fbce2c2dee55c498d93026e912d07f76d7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/emredogan/.android/build-cache/ff206528f955674a032061354c165591c5513b56/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/emredogan/.android/build-cache/a8809a8b820946fba42a71aab3b1a5a5f5f2b0b1/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/emredogan/.android/build-cache/594f41ae6976dc2d2702c771d87c7a8d6f056124/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/emredogan/.android/build-cache/06424dd6d5fa8d465ae18c33cbe55906f6183c68/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/emredogan/.android/build-cache/6ea2bf4f43c26ad6f15d0042cb60f7043ebe5c6a/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/emredogan/.android/build-cache/53cee36780ca8f34a1a094b38ea66c7d4f2361e8/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/emredogan/.android/build-cache/c0cbae751941b7c6056ce83c207e8486b2736441/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/emredogan/.android/build-cache/c2e5fedfe4e7008904a522ab294a7c126061e76d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/emredogan/.android/build-cache/fe1b115e84d500cbec5db9591706be4a896dc9e9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/emredogan/.android/build-cache/39208039119a204c9d3b6e0273a67a26e4043048/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/emredogan/.android/build-cache/49d0fc8e108790993f6efdd85504b3e427c85634/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/emredogan/.android/build-cache/f0a9656eb2a8d4c019498e4f05bd5b447929c575/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/emredogan/.android/build-cache/4d443137f9d30f0ef10d7b56145f0ab7404c1ea1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/emredogan/.android/build-cache/7354da9150356b5e105bfbad9c42fbf2d55e74f9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/emredogan/.android/build-cache/66ecc4f27031adf95ba4deb58bd26f4700646057/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/emredogan/.android/build-cache/28372c3dc31bf5ce9855eb924060c5ad3ce78851/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/emredogan/.android/build-cache/04f88ca7c7249eeeb655a555ae693a45aea013d5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/emredogan/.android/build-cache/71a9a37bb13546ed56fc9c7b6aff61fcaea3483b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/emredogan/.android/build-cache/162a3146894f8f089313534e875e8f7bb8d4a6bd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/emredogan/.android/build-cache/9a2f5962d9e402b59c244e820c1d16d39946edb2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/emredogan/.android/build-cache/54e3167560c2a538ee85bd979534c0f84403a94e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/18afb84d78194e290a7a6075661266161e12bb6b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/27a3e6978b294e3cce9892a694646e6d7bcb7f3d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/emredogan/.android/build-cache/e8b4e4fe886966467136e5d0be4fe654436b98ee/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/emredogan/.android/build-cache/19ec761b9de9b1b9ff424f2b89bfb63ba3f76cef/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/emredogan/.android/build-cache/4d4fd97ce1917094bc033d2e4580cb3963a282f9/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/emredogan/.android/build-cache/f7e463ad05c2e0ca312ddf726cc7369ef1f0a876/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/emredogan/.android/build-cache/227e7138f3061ea35bcb6d830821361723a1d76f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/emredogan/.android/build-cache/c325af94e604cc3b904d4a0d83c58a167effc1ea/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/emredogan/.android/build-cache/5b02e4d3edc6831a99984f3dd339d84c3059b334/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/emredogan/.android/build-cache/c1aa3ff8e66422b7f3b973065233703926ef9c0e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.0] /Users/emredogan/.android/build-cache/e4f2fe86bb08371510cbd0da6e48198cefece772/output/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/emredogan/.android/build-cache/d5b5d94bff5fb78f76b31030e6cc50325146a461/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/emredogan/.android/build-cache/9c6ce8b218b5e8c9cebdaee42ab582e8472bd25c/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/emredogan/.android/build-cache/8509e8e377e024f7fb5b6ab31bee656995871031/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/18afb84d78194e290a7a6075661266161e12bb6b/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/27a3e6978b294e3cce9892a694646e6d7bcb7f3d/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/emredogan/.android/build-cache/8509e8e377e024f7fb5b6ab31bee656995871031/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/emredogan/.android/build-cache/d212d1a4d4fbbd86d84052500f7d859438a90734/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/emredogan/.android/build-cache/13b0314136fd09841497005e6ae80a97d7554d53/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/emredogan/.android/build-cache/9d4045ddc77fb1549c06c37e8cd490f466a682e6/output/AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/emredogan/.android/build-cache/65b94535099c32dce5bf1418f987ba7369e1a35c/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/emredogan/.android/build-cache/3410b048798e06734435f23e062cfe9952a834bc/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/emredogan/.android/build-cache/f0a9656eb2a8d4c019498e4f05bd5b447929c575/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/emredogan/.android/build-cache/7354da9150356b5e105bfbad9c42fbf2d55e74f9/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/emredogan/.android/build-cache/f0a9656eb2a8d4c019498e4f05bd5b447929c575/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/emredogan/.android/build-cache/b83a84aa1b11c73e1c6e223d114450652a7b1511/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/27a3e6978b294e3cce9892a694646e6d7bcb7f3d/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/emredogan/.android/build-cache/27a3e6978b294e3cce9892a694646e6d7bcb7f3d/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/emredogan/.android/build-cache/d72562ca55d26bf09af70fd5a7a29c2ef5e54b3c/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/emredogan/.android/build-cache/8b9c0c5d969374ff23cf900dd6ef68e4965c1925/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/emredogan/.android/build-cache/e8b4e4fe886966467136e5d0be4fe654436b98ee/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/emredogan/.android/build-cache/e8b4e4fe886966467136e5d0be4fe654436b98ee/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/emredogan/.android/build-cache/e8b4e4fe886966467136e5d0be4fe654436b98ee/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/emredogan/.android/build-cache/e8b4e4fe886966467136e5d0be4fe654436b98ee/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/emredogan/.android/build-cache/e8b4e4fe886966467136e5d0be4fe654436b98ee/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/emredogan/.android/build-cache/68f4fe35b6fc301b41cfc783b4bea136a3aa237f/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/emredogan/.android/build-cache/c325af94e604cc3b904d4a0d83c58a167effc1ea/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/emredogan/.android/build-cache/c325af94e604cc3b904d4a0d83c58a167effc1ea/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/emredogan/.android/build-cache/c325af94e604cc3b904d4a0d83c58a167effc1ea/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/emredogan/.android/build-cache/c325af94e604cc3b904d4a0d83c58a167effc1ea/output/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/emredogan/.android/build-cache/1d871bacca580729f83dc1d391880868205a33cc/output/AndroidManifest.xml:22:13-58

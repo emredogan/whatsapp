@@ -1,0 +1,4 @@
+#Fri Feb 09 10:51:29 CET 2018
+base.0=/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/emredogan/AndroidStudioProjects/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
